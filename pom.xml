@@ -1,0 +1,8 @@
+<project>
+        <groupId>arg.qt.devops</groupId>
+        <artifactId>hellow-rld</artifactId>
+        <version>1.0-SNOPSHOT</version>
+        <modelVersion>4.0.0</modelVersion>
+        <packaging>jar</packaging>
+</project>
+
